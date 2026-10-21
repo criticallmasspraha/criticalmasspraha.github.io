@@ -1,1 +1,1 @@
-<iframe style="border:none" src="https://mapy.com/s/debopekacu" width="400" height="280" frameborder="0"></iframe>
+
